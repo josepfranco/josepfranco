@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is José Franco, welcome to my GitHub profile!
-I am a fullstack developer who focuses mainly on Java and C#. I also enjoy making games as a hobby.
+I am a software engineer from Portugal.
 
 ---
 
