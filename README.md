@@ -1,4 +1,4 @@
-### Hi there 👋, my name is José Franco, welcome to my GitHub profile!
+### Hi there 👋
 I am a software engineer from Portugal.
 
 ---
