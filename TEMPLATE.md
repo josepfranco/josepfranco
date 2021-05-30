@@ -2,4 +2,4 @@
 <p align='center'>I am a software engineer from Portugal.</p>
 
 ---
-<p align='center'><strong>Last active at:</strong> <!--TIMESTAMP:{"format": "dddd, MMMM Do YYYY, h:mm:ss"}--></p>
+<p align='center'><strong>Last active at:</strong> <!--TIMESTAMP:{"format": "DD/MM/YYYY, HH:mm", "tz": "PT"}--></p>
