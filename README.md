@@ -1,5 +1,5 @@
 <h1 align='center'>Hello there 👋</h1>
-<p align='center'>I am a software engineer from Portugal.</p>
+<h3 align='center'>I am a software engineer from Portugal.</h3>
 
 ---
-<p align='center'><strong>Last active at:</strong> 30/05/2021, 19:28</p>
+<p align='center'><strong>Last active at:</strong> 30/05/2021, 23:24</p>
