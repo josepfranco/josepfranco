@@ -1,13 +1,5 @@
-### Hi there 👋
-I am a software engineer from Portugal.
+<h1 align='center'>Hello there 👋</h1>
+<p align='center'>I am a software engineer from Portugal.</p>
 
 ---
-
-### Language Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josepfranco&layout=compact" />
-
----
-### GitHub Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=josepfranco&count_private=true" />
-
----
+<p align='center'><strong>Last active at:</strong> <!--TIMESTAMP:{"format": "dddd, MMMM Do YYYY, h:mm:ss"}--></p>
