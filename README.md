@@ -2,4 +2,4 @@
 <p align='center'>I am a software engineer from Portugal.</p>
 
 ---
-<p align='center'><strong>Last active at:</strong> Sunday, May 30th 2021, 7:23:25</p>
+<p align='center'><strong>Last active at:</strong> 30/05/2021, 19:28</p>
