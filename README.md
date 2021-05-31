@@ -38,6 +38,6 @@
 | 📦 | 0 | [josepfranco/Templates.DotNet](https://github.com/josepfranco/Templates.DotNet) | All personal .NET boilerplate templates NuGet Package |
 | 📦 | 0 | [josepfranco/KSqlDb.Client](https://github.com/josepfranco/KSqlDb.Client) | A ksqlDB client for C# & ASP.NET Core |
 
-`Last update at 31/05/2021, 12:54`
+`Last update at 31/05/2021, 17:25`
 
 </div>
