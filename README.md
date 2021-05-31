@@ -27,9 +27,11 @@
 
 <div align='center'>
   
-⭐️ 0 📦 josepfranco/josepfranco
-⭐️ 0 📦 josepfranco/EventConsumer.Kafka
-⭐️ 0 📦 josepfranco/EventProducer.Kafka
-⭐️ 0 📦 josepfranco/Abstractions.EventProducer
+|*|Stars|Repo|Description|
+|---|---|---|---|
+| 📦 | 0 | [josepfranco/josepfranco](https://github.com/josepfranco/josepfranco) | My GitHub profile. |
+| 📦 | 0 | [josepfranco/EventConsumer.Kafka](https://github.com/josepfranco/EventConsumer.Kafka) | Kafka integration with the event consuming abstractions in C#. |
+| 📦 | 0 | [josepfranco/EventProducer.Kafka](https://github.com/josepfranco/EventProducer.Kafka) | Kafka integration with the event producing abstractions in C#. |
+| 📦 | 0 | [josepfranco/Abstractions.EventProducer](https://github.com/josepfranco/Abstractions.EventProducer) | Boilerplate abstractions for all event producing operations in C#. |
   
 </div>
