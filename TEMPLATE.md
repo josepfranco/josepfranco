@@ -28,5 +28,7 @@
 <div align='center'>
   
 <!--GITHUB_REPOS:{"rows": 8, "sort": "updated"}-->
-  
+
+`Last update at <!--TIMESTAMP:{"format": "DD/MM/YYYY, HH:mm", "tz": "PT"}-->`
+
 </div>
