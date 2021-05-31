@@ -33,5 +33,9 @@
 | 📦 | 0 | [josepfranco/EventConsumer.Kafka](https://github.com/josepfranco/EventConsumer.Kafka) | Kafka integration with the event consuming abstractions in C#. |
 | 📦 | 0 | [josepfranco/EventProducer.Kafka](https://github.com/josepfranco/EventProducer.Kafka) | Kafka integration with the event producing abstractions in C#. |
 | 📦 | 0 | [josepfranco/Abstractions.EventProducer](https://github.com/josepfranco/Abstractions.EventProducer) | Boilerplate abstractions for all event producing operations in C#. |
+| 📦 | 0 | [josepfranco/Abstractions.EventConsumer](https://github.com/josepfranco/Abstractions.EventConsumer) | Boilerplate abstractions for all event consuming operations in C#. |
+| 📦 | 0 | [josepfranco/Abstractions.Events](https://github.com/josepfranco/Abstractions.Events) | Boilerplate abstractions for all event operations in C#. |
+| 📦 | 0 | [josepfranco/Templates.DotNet](https://github.com/josepfranco/Templates.DotNet) | All personal .NET boilerplate templates NuGet Package |
+| 📦 | 0 | [josepfranco/KSqlDb.Client](https://github.com/josepfranco/KSqlDb.Client) | A ksqlDB client for C# & ASP.NET Core |
   
 </div>
