@@ -1,7 +1,6 @@
 <div align='center'>
-  <img src="https://badges.pufler.dev/years/josepfranco" alt="Years">
   <img src="https://badges.pufler.dev/repos/josepfranco" alt="Public Repositories">
-  <img src="https://badges.pufler.dev/commits/weekly/josepfranco" alt="Commits per Week">
+  <img src="https://badges.pufler.dev/commits/yearly/josepfranco" alt="Commits this Year">
 </div>
 
 <h1 align='center'>Hello there 👋</h1>
@@ -28,6 +27,6 @@
 
 <div align='center'>
   
-`Last active at 31/05/2021, 00:17`
+`Last active at 31/05/2021, 00:22`
   
 </div>
