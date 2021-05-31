@@ -1,7 +1,6 @@
 <div align='center'>
-  <img src="https://badges.pufler.dev/years/josepfranco" alt="Years">
   <img src="https://badges.pufler.dev/repos/josepfranco" alt="Public Repositories">
-  <img src="https://badges.pufler.dev/commits/weekly/josepfranco" alt="Commits per Week">
+  <img src="https://badges.pufler.dev/commits/yearly/josepfranco" alt="Commits this Year">
 </div>
 
 <h1 align='center'>Hello there 👋</h1>
