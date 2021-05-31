@@ -27,6 +27,6 @@
 
 <div align='center'>
   
-<!--GITHUB_REPOS:{"rows": 4, "raw": true, "sort": "updated"}-->
+<!--GITHUB_REPOS:{"rows": 4, "sort": "updated"}-->
   
 </div>
