@@ -27,6 +27,6 @@
 
 <div align='center'>
   
-`Last active at <!--TIMESTAMP:{"format": "DD/MM/YYYY, HH:mm", "tz": "PT"}-->`
+<!--GITHUB_REPOS:{"rows": 4, "raw": true, "sort": "updated"}-->
   
 </div>
