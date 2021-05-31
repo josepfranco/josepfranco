@@ -27,6 +27,9 @@
 
 <div align='center'>
   
-`Last active at 31/05/2021, 09:08`
+⭐️ 0 📦 josepfranco/josepfranco
+⭐️ 0 📦 josepfranco/EventConsumer.Kafka
+⭐️ 0 📦 josepfranco/EventProducer.Kafka
+⭐️ 0 📦 josepfranco/Abstractions.EventProducer
   
 </div>
