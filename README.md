@@ -1,14 +1,4 @@
 <div align='center'>
-  <img src="https://badges.pufler.dev/repos/josepfranco" alt="Public Repositories">
-  <img src="https://badges.pufler.dev/commits/yearly/josepfranco" alt="Commits this Year">
-</div>
-
-<h1 align='center'>Hello there 👋</h1>
-<p align='center'>I am a software engineer from Portugal with interests in software architecture, game development, artificial intelligence and programming in general.</p>
-
-<br>
-
-<div align='center'>
   <a target="_blank" href="https://www.linkedin.com/in/josepgvfranco/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -25,19 +15,13 @@
 
 <br>
 
-<div align='center'>
-  
-|*|Stars|Repo|Description|
-|---|---|---|---|
-| 📦 | 0 | [josepfranco/josepfranco](https://github.com/josepfranco/josepfranco) | My GitHub profile. |
-| 📦 | 0 | [josepfranco/EventProducer.Kafka](https://github.com/josepfranco/EventProducer.Kafka) | Kafka integration with the event producing abstractions in C#. |
-| 📦 | 0 | [josepfranco/EventConsumer.Kafka](https://github.com/josepfranco/EventConsumer.Kafka) | Kafka integration with the event consuming abstractions in C#. |
-| 📦 | 0 | [josepfranco/Abstractions.EventProducer](https://github.com/josepfranco/Abstractions.EventProducer) | Boilerplate abstractions for all event producing operations in C#. |
-| 📦 | 0 | [josepfranco/Abstractions.EventConsumer](https://github.com/josepfranco/Abstractions.EventConsumer) | Boilerplate abstractions for all event consuming operations in C#. |
-| 📦 | 0 | [josepfranco/Abstractions.Events](https://github.com/josepfranco/Abstractions.Events) | Boilerplate abstractions for all event operations in C#. |
-| 📦 | 0 | [josepfranco/Templates.DotNet](https://github.com/josepfranco/Templates.DotNet) | All personal .NET boilerplate templates NuGet Package |
-| 📦 | 0 | [josepfranco/KSqlDb.Client](https://github.com/josepfranco/KSqlDb.Client) | A ksqlDB client for C# & ASP.NET Core |
+<h1 align='center'>Hello there 👋</h1>
+<p align='center'>
+  I am a software engineer from Portugal with interests in software architecture, game development, artificial intelligence and programming in general.</p>
+<br>
 
-`Last update at 01/08/2021, 16:21`
+<div align='center'>
+</div>
+
 
 </div>
